@@ -40,24 +40,24 @@ export default function RootLayout({
         {/* Open Graph and Twitter Meta Tags */}
         <meta
           property="og:title"
-          content="Anurag.dev - Experienced MERN Stack Developer Portfolio"
+          content="Ghanshyam.dev - Experienced MERN Stack Developer Portfolio"
         />
         <meta
           property="og:description"
-          content="Explore Anurag Dubey's portfolio, an experienced MERN stack developer showcasing projects and skills in full-stack web development."
+          content="Explore Ghanshyam Choudhary portfolio, an experienced MERN stack developer showcasing projects and skills in full-stack web development."
         />
         <meta property="og:image" content="/path-to-portfolio-image.jpg" />
-        <meta property="og:url" content="https://Anurag-dev.vercel.app" />
+        {/* <meta property="og:url" content="https://Anurag-dev.vercel.app" /> */}
         <meta property="og:type" content="website" />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="Anurag.dev - Experienced MERN Stack Developer"
+          content="Ghanshyam.dev - Experienced MERN Stack Developer"
         />
         <meta
           name="twitter:description"
-          content="Check out Anurag Dubey's portfolio showcasing projects, skills, and experience in MERN stack development."
+          content="Check out Ghanshyam Choudhary portfolio showcasing projects, skills, and experience in MERN stack development."
         />
         <meta name="twitter:image" content="/path-to-twitter-image.jpg" />
 
@@ -101,16 +101,16 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "http://schema.org",
               "@type": "Person",
-              name: "Anurag Dubey",
-              url: "https://Anurag-dev.vercel.app",
+              name: "Ghanshyam Choudhary",
+              // url: "https://Anurag-dev.vercel.app",
               jobTitle: "Full Stack Developer",
               worksFor: {
                 "@type": "Organization",
                 name: "Freelance",
               },
               sameAs: [
-                "https://github.com/AnuragDubey/",
-                "https://www.linkedin.com/in/Anurag-Dubey-371bb0267/",
+                // "https://github.com/AnuragDubey/",
+                // "https://www.linkedin.com/in/Anurag-Dubey-371bb0267/",
               ],
               knowsAbout: [
                 "MERN Stack",

@@ -46,7 +46,7 @@ const Projects = () => {
           </div>
           <div className="w-full my-3 flex gap-2">
             <a
-              href="https://github.com/anurag2169/rise-stream-fe"
+              // href="https://github.com/anurag2169/rise-stream-fe"
               target="_blank"
             >
               <button className="py-2 px-5 flex items-center justify-center gap-2 text-sm bg-white text-[#111111] rounded-[4px]  hover:px-10 duration-150 ease-in-out border-[1px] border-[#303030]">
@@ -55,7 +55,7 @@ const Projects = () => {
               </button>
             </a>
             <a
-              href="https://github.com/anurag2169/RiseStream-backend"
+              // href="https://github.com/anurag2169/RiseStream-backend"
               target="_blank"
             >
               <button className="py-2 px-5 flex items-center justify-center gap-2 text-sm bg-white text-[#111111] rounded-[4px]  hover:px-10 duration-150 ease-in-out border-[1px] border-[#303030]">

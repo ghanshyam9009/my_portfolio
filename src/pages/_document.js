@@ -22,20 +22,20 @@ export default function Document() {
         <meta charSet="UTF-8" />
         <meta
           name="description"
-          content="Anurag Dev Portfolio - Full Stack Developer specializing in the MERN stack"
+          content="Ghanshyam Dev Portfolio - Full Stack Developer specializing in the MERN stack"
         />
         <meta
           name="keywords"
-          content="Anurag, Full Stack Developer, MERN, Portfolio, Next.js"
+          content="Ghanshyam, Full Stack Developer, MERN, Portfolio, Next.js"
         />
-        <meta name="author" content="Anurag" />
+        <meta name="author" content="Ghanshyam" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta property="og:title" content="Anurag Dev Portfolio" />
+        <meta property="og:title" content="Ghanshyam Dev Portfolio" />
         <meta
           property="og:description"
-          content="Portfolio of Anurag, showcasing skills and projects in full-stack development."
+          content="Portfolio of Ghanshyam, showcasing skills and projects in full-stack development."
         />
-        <meta property="og:url" content="https://anurag-dev.vercel.app" />
+        {/* <meta property="og:url" content="https://anurag-dev.vercel.app" /> */}
         <meta property="og:type" content="website" />
       </Head>
       <body>
